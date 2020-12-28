@@ -1,2 +1,2 @@
 # Python_repository
-This is a repository containing python files
+This is a new repository containing python files
